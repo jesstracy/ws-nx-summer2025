@@ -1,0 +1,3 @@
+// apps/movies/src/homepage/homepage.tsx
+
+import { searchMoviesByTitle } from '@react-monorepo/movies-utils';
